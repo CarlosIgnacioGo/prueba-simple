@@ -1,7 +1,7 @@
 # Prueba 
 
 # 1. Ruby 
-Escribe una función que elimine todas las voces de cualquier cadena y la imprima en sentido inverso 🙃.
+Escribe una función que elimine todas las vocales de cualquier cadena y la imprima en sentido inverso 🙃.
 
 # 2. Rails 
 
